@@ -1,24 +1,28 @@
-# README
+## PUTS DEV - Primeiros passos de envio de emails com rails e gmail
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Puts dev, querendo dar seus primeiros passos com envios de email no rails?
+Vamos tentar ver isso de forma mais prática?
 
-Things you may want to cover:
 
-* Ruby version
+Nesse vídeo vamos fazer o rails enviar emails usando seu google/gmail :)!
 
-* System dependencies
+Rails Guides:
+https://guides.rubyonrails.org/action_mailer_basics.html
 
-* Configuration
+Artigo(Boula Akladyous):
+https://akladyous.medium.com/ruby-on-rails-action-mailer-configuration-6d0cfc00b871
 
-* Database creation
+Support Google(app passwords)
+https://support.google.com/mail/answer/185833?hl=en
 
-* Database initialization
+Support Google(SMTP)
+https://support.google.com/a/answer/176600?hl=pt-br
 
-* How to run the test suite
+Hostinger(google SMTP)
+https://www.hostinger.com/br/tutoriais/aprenda-a-utilizar-o-smtp-google
 
-* Services (job queues, cache servers, search engines, etc.)
+Support Google(Limites)
+https://support.google.com/a/answer/166852?hl=pt-BR
 
-* Deployment instructions
-
-* ...
+YouTube:
+https://youtu.be/jLzdCkE4wyo
